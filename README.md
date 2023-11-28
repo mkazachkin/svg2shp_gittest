@@ -1,3 +1,5 @@
+# Создаем конфликт при следующем пуше с локального репозитория
+
 # SVG2SHP Light
 SVG2SHP Light is a simple and light SVG to SHP (ESRI) converter.
 Please note:
