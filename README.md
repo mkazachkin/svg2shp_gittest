@@ -1,3 +1,5 @@
+А это строка была добавлена в локальном репозитории и мы "не знаем", что на гитхабе мы изменили ридми
+
 # SVG2SHP Light
 SVG2SHP Light is a simple and light SVG to SHP (ESRI) converter.
 Please note:
