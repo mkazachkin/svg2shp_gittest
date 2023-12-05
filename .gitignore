@@ -154,7 +154,7 @@ cython_debug/
 
 # Images
 *.jpg
-*.png
+#*.png
 *.svg
 
 # Shapefiles
